@@ -62,8 +62,10 @@ Please note that all the information here is tentative and subject to change at 
   &nbsp;  
   &nbsp;  
   
-We sincerely hope that you'll enjoy the workshops. Don't hesitate to give us your feedback (or compliments) 
-&nbsp;  
+We sincerely hope that you'll enjoy the workshops. Don't hesitate to give us your feedback (or compliments)  
+  
+  
+  &nbsp;  
 Marwan Alani - CS Hub - 2016  
 
 &nbsp;  
