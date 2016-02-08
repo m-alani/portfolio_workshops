@@ -2,9 +2,9 @@
 
 Welcome!
 
-Over here, you will find information and shared resources for the ePortfolio workshops that CS Hub is holding @ York University on the winter of 2016
+Over here, you will find information and shared resources for the ePortfolio workshops that CS Hub is hosting @ York University on the winter of 2016
 
-We will be covering the basics (and sometimes advanced) of front-end web development, with emphasis on tools and technologies which you can use to easily create an online portfolio. The series are broken into 3 workshops, each with its own topics. We will keep you updated (dates, rooms, topics, etc.) through this page, so make sure to bookmark it.
+We will be covering the basics (and sometimes advanced topics) of front-end web development, with emphasis on tools and technologies which you can use to easily create an online portfolio. The series are broken into 3 workshops, each with its own topics. We will keep you updated (dates, rooms, topics, etc.) through this page, so make sure to bookmark it.
 
 -----
 
@@ -33,13 +33,13 @@ We will be covering the basics (and sometimes advanced) of front-end web develop
   - Why bother making an eResume/ePortfolio?
   - What to include?
   - Browsers & Websites
-  - Front-end & Back-end
+  - Front-end vs Back-end
   - Markup vs Programming languages
   - The holy trinity (HTML, CSS, JS)  
 - HTML Code:
   - Document Skeleton
   - Cool new additions in HTML5
-- Links & Resources (to give you company through reading week)  
+- Links & Resources (to keep you busy through reading week)  
 
 
 ### Workshop 2 (Style Sheets, Style Sheets Everywhere!)  
