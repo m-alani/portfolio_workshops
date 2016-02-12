@@ -8,6 +8,12 @@ We will be covering the basics (and sometimes advanced topics) of front-end web 
 
 -----
 
+## Updates  
+
+* Now that workshop 1 is done, you can find information about it inside the folder (conviniently named) "Workshop1". We hope that the workshop was useful, and wish to see you in workshop 2!  
+  
+-----  
+  
 ## Q & A
 
 **Q** Who are the targeted audience of these workshops?  
