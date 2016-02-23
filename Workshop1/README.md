@@ -25,7 +25,7 @@ We covered few of the basics of Web Development and plenty of theory and termino
 * [TutorialsPoint - HTML5 tutorials](http://www.tutorialspoint.com/html5/index.htm)  
 * [TutorialsPoint - CSS tutorials (The "Advanced" & "CSS3" sections are highly recommended)](http://www.tutorialspoint.com/html5/index.htm)  
 * [w3schools - Bootstrap (It's a good idea to check it out prior to our 2nd & 3rd workshops)](http://www.w3schools.com/bootstrap/default.asp)  
-
+* [Free Code Camp - Become a web developer and help non-profits] (http://www.freecodecamp.com/)
 ---  
 
 We will post the time & location of the next workshop on the main page, so stay tuned for that!  
