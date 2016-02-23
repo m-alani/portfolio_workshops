@@ -22,9 +22,11 @@ We covered few of the basics of Web Development and plenty of theory and termino
 
 * [YouTube - Derek Banas - HTML5 crash course](https://www.youtube.com/watch?v=kDyJN7qQETA)  
 * [YouTube - Derek Banas - CSS3 crash course](https://www.youtube.com/watch?v=CUxH_rWSI1k)  
+* [YouTube - DevTips Channel - Very helpful tutorials and lessons about Web Development](https://www.youtube.com/channel/UCyIe-61Y8C4_o-zZCtO4ETQ)  
 * [TutorialsPoint - HTML5 tutorials](http://www.tutorialspoint.com/html5/index.htm)  
 * [TutorialsPoint - CSS tutorials (The "Advanced" & "CSS3" sections are highly recommended)](http://www.tutorialspoint.com/html5/index.htm)  
-* [w3schools - Bootstrap (It's a good idea to check it out prior to our 2nd & 3rd workshops)](http://www.w3schools.com/bootstrap/default.asp)  
+* [w3schools - Bootstrap (It's a good idea to check it out prior to our 2nd & 3rd workshops)](http://www.w3schools.com/bootstrap/default.asp)
+* [FreeCodeCamp - Coding tutorials in many web development related topics. You can help non-profits while learning too.](http://www.freecodecamp.com/)  
 
 ---  
 
