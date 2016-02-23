@@ -11,6 +11,7 @@ We will be covering the basics (and sometimes advanced topics) of front-end web 
 ## Updates  
 
 * Now that workshop 1 is done, you can find information about it inside the folder (conviniently named) "Workshop1". We hope that the workshop was useful, and wish to see you in workshop 2!  
+* Location and time set for workshop 2! check the details below.
   
 -----  
   
@@ -33,7 +34,6 @@ We will be covering the basics (and sometimes advanced topics) of front-end web 
 **When?** 5:00pm on Thursday, Feb. 11th 2016  
 **What to bring?** Your enthusiasm, curiosity, and questions regarding the topics below. Laptops are optional for this workshop, as we will have a discussion-style setup.
 
-
 **Topics**  
 - Terminology & Theory:
   - Why bother making an eResume/ePortfolio?
@@ -47,12 +47,27 @@ We will be covering the basics (and sometimes advanced topics) of front-end web 
   - Cool new additions in HTML5
 - Links & Resources (to keep you busy through reading week)  
 
-
+  
 ### Workshop 2 (Style Sheets, Style Sheets Everywhere!)  
-Stay tuned!  
-
+**Where?** 217 Bergeron Centre.  
+**When?** 5:00pm on Thursday, Feb. 25th 2016  
+**What to bring?** Your enthusiasm, curiosity, and questions. Laptops are highly recommended for this workshop, as we will explore some code samples and write some of our own.  
+  
+**Topics**  
+- Basics of CSS:
+  - The syntax
+  - Ways to include CSS in your document
+  - Basic properties
+  - Basic Selectors
+- The fun parts (Mostly in CSS3):
+  - Font faces
+  - Animations
+  - Media queries (Responsive design)
+- CSS frameworks  
+  
+  
 ### Workshop 3 (Bootstrap to the Rescue)  
-Again, stay tuned for details.  
+Stay tuned for details.  
   
   
   &nbsp;  
@@ -62,12 +77,8 @@ Again, stay tuned for details.
 Please note that all the information here is tentative and subject to change at any time without notice. i.e check this page frequently.
 
   &nbsp;  
-  &nbsp;  
-  &nbsp;  
-  &nbsp;  
-  &nbsp;  
-  &nbsp;  
-  
+
+
 We sincerely hope that you'll enjoy the workshops. Don't hesitate to give us your feedback (or compliments)  
   
   
