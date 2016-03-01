@@ -1,0 +1,52 @@
+/*
+  Sample CSS file written during the second workshop of the ePortfolio series
+  Thursday, Feb. 25, 2016
+  CS HUB - York University
+  Marwan Alani
+*/
+
+h1 {
+  color: darkblue;
+  font-family: 'Lato', sans-serif;
+  font-size: 48px;
+}
+
+p {
+  /* for a fixed width item, setting the left & right margins to "auto" will center it in parent container */
+  width: 450px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Define a Keyframes animation */
+@keyframes myAnimation {
+  /* Define the starting and ending properties/values through the animation, and CSS will fill in the gap in between automatically */
+  from {
+    width: 300px;
+    background-color: #007;
+  }
+
+  to {
+    width: 500px;
+    background-color: #77f;
+  }
+}
+
+.myBox {
+  width: 300px;
+  height: 200px;
+  padding: 15px;
+  margin: 10px auto;
+  color: white;
+  background-color: #007;
+  box-shadow: 10px 10px 5px black;
+}
+
+/* Attach the defined animation to an event
+  in this case, it's the "hover" event over any element associated with our "myBox" class */
+.myBox:hover {
+  animation-name: myAnimation;
+  animation-duration: 1s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+}
