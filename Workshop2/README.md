@@ -26,6 +26,7 @@ We covered the basic syntax and few cool things about CSS3 in the workshop. We a
 * [Bootstrap - Official website](http://getbootstrap.com/)   
 * [w3schools - Bootstrap](http://www.w3schools.com/bootstrap/)
 * [Materialize - Great light-weight CSS framework based on Google's material design](http://materializecss.com/)  
+* [CSS-Tricks - Great resource for CSS discussions & code snippets](https://css-tricks.com/)  
 
 ---  
 
