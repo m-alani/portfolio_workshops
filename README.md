@@ -14,6 +14,7 @@ We will be covering the basics (and sometimes advanced topics) of front-end web 
 * Location and time set for workshop 2! check the details below.
 * Information, sample documents, and links for workshop 2 is up inside "Workshop2" folder. Check it out!
 * Location and time set for workshop 3! check the details below.
+* Workshop 3 is done! and with it, we wrap up the series. We hope that everyone learned something, and we look forward to seeing you in future events
 
 -----  
 
@@ -98,7 +99,7 @@ Please note that all the information here is tentative and subject to change at 
   &nbsp;  
 
 
-We sincerely hope that you'll enjoy the workshops. Don't hesitate to give us your feedback (or compliments)  
+We sincerely hope that you enjoyed the workshops. Don't hesitate to give us your feedback (or compliments)  
 
 
   &nbsp;  
