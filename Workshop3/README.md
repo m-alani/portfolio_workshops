@@ -1,6 +1,6 @@
 # Workshop 3 (Bootstrap)  
 
-We covered Bootstrap's grid system in more details in the workshop. We also showed how easy it is to look up Bootstrap components using bootstrap's official website. We also talked about registering a Domain Name and buying a web host service. Below you'll find few of the highlights and links to useful resources:  
+We took a closer look at Bootstrap's grid system in the workshop. We also showed how easy it is to look up Bootstrap's components using bootstrap's official website. We also talked about registering a Domain Name and buying a web host service. Below you'll find few of the highlights and links to useful resources:  
 
 ---  
 
@@ -16,11 +16,11 @@ We covered Bootstrap's grid system in more details in the workshop. We also show
   * Make sure that your column count adds up to 12 per screen size, per row
   * You can use "col-XX-offset-CC" to add an offset your cell (offset will take place first, then your cell)
 * There are 3 easy ways to edit the default values of Bootstrap classes (colors, sizes, margins, fonts, etc.):
-  * Override the properties you want inside a class with the same name as Bootstrap's inside your own CSS file. Make sure that you import/link your custom CSS file AFTER you import/link Bootstrap in your HTML document
+  * Override the properties you want inside a class with the same name as Bootstrap's class inside your own CSS file (putting .navbar{background-color: blue;} in your own CSS file). Make sure that you import/link your custom CSS file AFTER you import/link Bootstrap in your HTML document
   * Add separate classes with just the properties you want to override to the elements you want to customize (i.e class="navbar customColor" where customColor has your custom background-color value)
   * Use the "Customize" tab in Bootstrap's official website to customize and pick the components you want. Then download the customized Bootstrap package and use it for your website.
 * When creating your ePortfolio, keep the main goals in mind! Make it professional and clean. Try to look at other Developers' websites to brainstorm and get ideas.
-* There are plenty of free and ready to use Bootstrap templates on the internet. Using one of them will make your task easier for sure, but keep in mind that it won't leave the same impression on visitors when you state that you "Coded your whole website from scratch"
+* There are plenty of free and ready to use Bootstrap templates on the internet. Using one of them will make your task easier for sure, but keep in mind that it won't leave the same impression on your visitors when you state that you "Coded your whole website from scratch"
 
 ---  
 
